@@ -1,3 +1,2 @@
 # machine_learning_zoomcamp_homework
-My Homework 
-Helloo !
+Small Repo to Save all my homeworks
